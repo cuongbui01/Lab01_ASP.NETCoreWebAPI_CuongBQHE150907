@@ -1,0 +1,30 @@
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

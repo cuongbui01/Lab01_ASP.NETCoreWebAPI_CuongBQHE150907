@@ -1,0 +1,554 @@
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.exe
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.deps.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.runtimeconfig.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.AssemblyReference.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfoInputs.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfo.cs
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CoreCompileInputs.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductManagementAPI.props
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementAPI.props
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductManagementAPI.props
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProductManagementAPI.styles.css
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CopyComplete
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\refint\ProductManagementAPI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.pdb
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.genruntimeconfig.cache
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ref\ProductManagementAPI.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Humanizer.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\MessagePack.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Build.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Common.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FULearning\Ky 8\PRN231\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.exe
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.deps.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.runtimeconfig.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.AssemblyReference.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfo.cs
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductManagementAPI.props
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementAPI.props
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductManagementAPI.props
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProductManagementAPI.styles.css
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CopyComplete
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\refint\ProductManagementAPI.dll
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.pdb
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.genruntimeconfig.cache
+C:\Users\Cuong\Desktop\Lab01_ASP.NETCoreWebAPI_CuongBQHE150907\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ref\ProductManagementAPI.dll
